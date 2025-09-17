@@ -5,5 +5,5 @@ EXPOSE 5.8.0
 ENV project="expense"\
     environment="dev"
 
-LABEL project="docker"
-    environment="prod"
+LABEL project="docker"\
+      environment="prod"
